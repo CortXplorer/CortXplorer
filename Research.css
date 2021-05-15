@@ -136,6 +136,12 @@
   .u-section-2 .u-group-1 {
     width: 340px;
   }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
 }.u-section-3 {
   background-image: none;
 }
@@ -193,6 +199,12 @@
   .u-section-3 .u-group-1 {
     width: 340px;
   }
+
+  .u-section-3 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
 }.u-section-4 {
   background-image: none;
 }
@@ -241,6 +253,12 @@
 @media (max-width: 575px) {
   .u-section-4 .u-group-1 {
     width: 340px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
   }
 }.u-section-5 {
   background-image: none;
@@ -291,6 +309,12 @@
   .u-section-5 .u-group-1 {
     width: 340px;
   }
+
+  .u-section-5 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
 }.u-section-6 {
   background-image: none;
 }
@@ -340,6 +364,12 @@
   .u-section-6 .u-group-1 {
     width: 340px;
   }
+
+  .u-section-6 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
 }.u-section-7 {
   background-image: none;
 }
@@ -388,6 +418,12 @@
 @media (max-width: 575px) {
   .u-section-7 .u-group-1 {
     width: 340px;
+  }
+
+  .u-section-7 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
   }
 }.u-section-8 {
   background-image: none;
