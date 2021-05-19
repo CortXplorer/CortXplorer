@@ -18638,6 +18638,9 @@ a.pswp__share--download:hover {
 .u-accordion:not([class*="u-spacing-"]) .u-accordion-item:not(:last-child) .u-accordion-link[class*=u-border-] ~ .u-accordion-pane {
   border-bottom: none;
 }
+.u-section-row {
+  position: relative;
+}
 .u-carousel {
   position: relative;
 }
@@ -33773,8 +33776,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-top: 26px;
-    width: auto;
-    height: auto;
+    width: 63px;
   }
 
   .u-header .u-social-icons-1 {
